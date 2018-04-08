@@ -22,7 +22,7 @@ Vulnerability #1: SQL Injection
 - [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/SQL_Injection.gif)
 
 Vulnerability #2: Session Hijacking/Fixation
-- [ ] GIF Walkthrough:![]( https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Session Hijacking.gif)
+- [ ] GIF Walkthrough:![]( https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Session_Hijacking.gif)
 
 ## Green
 
