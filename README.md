@@ -27,7 +27,7 @@ Vulnerability #2: Session Hijacking/Fixation
 ## Green
 
 Vulnerability #1: Cross-Site Scripting (XSS) 
-- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/XXS.gif)
+- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment/blob/master/XXS.gif)
 
 Vulnerability #2: Username Enumeration
 - [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Enumeration.gif)
