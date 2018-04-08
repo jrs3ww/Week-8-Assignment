@@ -19,10 +19,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
-- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/SQL_Injection.gif)
-
+- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment/blob/master/SQL_Injection.gif)
 Vulnerability #2: Session Hijacking/Fixation
-- [ ] GIF Walkthrough:![]( https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Session_Hijacking.gif)
+- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment/blob/master/Session_Hijacking.gif)
 
 ## Green
 
@@ -30,15 +29,15 @@ Vulnerability #1: Cross-Site Scripting (XSS)
 - [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment/blob/master/XXS.gif)
 
 Vulnerability #2: Username Enumeration
-- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Enumeration.gif)
+- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment/blob/master/Enumeration.gif)
 
 ## Red
 
 Vulnerability #1: Cross-Site Request Forgery 
-- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Forgery.gif)
+- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment/blob/master/Forgery.gif)
 
 Vulnerability #2: Insecure Direct Object Reference
-- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Insecure_Direct_Object_Reference.gif)
+- [ ] GIF Walkthrough:![](https://github.com/jrs3ww/Week-8-Assignment/blob/master/Insecure_Direct_Object_Reference.gif)
 
 ## Notes
 
