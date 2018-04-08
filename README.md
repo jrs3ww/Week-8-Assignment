@@ -19,23 +19,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
+![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/SQL_Injection.gif)
 
 Vulnerability #2: Session Hijacking/Fixation
-
+![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Session Hijacking.gif)
 
 ## Green
 
 Vulnerability #1: Cross-Site Scripting (XSS) 
+![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/XXS.gif)
 
 Vulnerability #2: Username Enumeration
-
+![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Enumeration.gif)
 
 ## Red
 
 Vulnerability #1: Cross-Site Request Forgery 
+![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Forgery.gif)
 
 Vulnerability #2: Insecure Direct Object Reference
-
+![](https://github.com/jrs3ww/Week-8-Assignment-/blob/master/Insecure_Direct_Object_Reference.gif)
 
 ## Notes
 
